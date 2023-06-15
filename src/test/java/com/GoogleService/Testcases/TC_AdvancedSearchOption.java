@@ -7,10 +7,10 @@ import com.GoogleService.PageObjects.AdvancedSearchOption;
 
 
 
-public class TC_AdvancedSearchOptionTest extends BaseClass{
+public class TC_AdvancedSearchOption extends BaseClass{
 	
       @Test(dataProvider = "data",dataProviderClass=BaseClass.class)
-      public void googleHomePageTest(String allthesewords,String thisexactwords,String anyofthiswords, String noneofthiswords, String from, String to,String site) {
+      public void AdvancedSearchOptionTest(String allthesewords,String thisexactwords,String anyofthiswords, String noneofthiswords, String from, String to,String site) {
     	  AdvancedSearchOption aso=new AdvancedSearchOption(driver);
     	  aso.clickOnSettings();
     	  aso.clickOnAdvancedSearch();

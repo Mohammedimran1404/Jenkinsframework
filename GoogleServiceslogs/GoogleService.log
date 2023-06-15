@@ -575,3 +575,81 @@
 15:06:2023Â  11:21:42 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
 15:06:2023Â  11:21:43 [main] INFO  LogUtility:10 - Browser quit successfully
 15:06:2023Â  11:21:43 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023Â  12:44:53 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.12.44.53.html Report generating started
+15:06:2023Â  12:44:56 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023Â  12:44:56 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023Â  12:44:58 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023Â  12:44:59 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023Â  12:45:04 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+15:06:2023Â  12:45:04 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023Â  12:45:05 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023Â  12:45:05 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023Â  12:45:07 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023Â  12:45:07 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023Â  12:45:09 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023Â  12:45:10 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023Â  12:45:10 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023Â  12:47:36 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.12.47.36.html Report generating started
+15:06:2023Â  12:47:38 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023Â  12:47:38 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023Â  12:47:41 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023Â  12:47:42 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023Â  12:47:42 [main] INFO  LogUtility:10 - Clicked on Settings
+15:06:2023Â  12:47:42 [main] INFO  LogUtility:10 - Clicked on Settings
+15:06:2023Â  12:47:45 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+15:06:2023Â  12:47:46 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023Â  12:47:47 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023Â  12:47:47 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023Â  12:47:49 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023Â  12:47:49 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023Â  12:47:51 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023Â  12:47:51 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023Â  12:47:52 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  15:55:13 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.15.55.13.html Report generating started
+15:06:2023  15:55:16 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  15:55:16 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  15:55:18 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  15:55:19 [main] INFO  LogUtility:10 - AdvancedSearchOptionTest Test case started
+15:06:2023  15:55:19 [main] INFO  LogUtility:10 - Settings is Clicked
+15:06:2023  15:55:20 [main] INFO  LogUtility:10 - AdvancedSearch is Clicked
+15:06:2023  15:55:20 [main] INFO  LogUtility:10 - Advanced search page is displayed and passed
+15:06:2023  15:55:21 [main] INFO  LogUtility:10 - Search creteria is entered
+15:06:2023  15:55:23 [main] INFO  LogUtility:10 - Advanced search button is Clicked
+15:06:2023  15:55:23 [main] INFO  LogUtility:10 - Search result is displayed and passed
+15:06:2023  15:55:23 [main] INFO  LogUtility:13 - AdvancedSearchOptionTest Test case executed successfully
+15:06:2023  15:55:24 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  15:55:25 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  15:55:25 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  15:55:27 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  15:55:27 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023  15:55:29 [main] INFO  LogUtility:10 - Sign in button is Clicked
+15:06:2023  15:55:29 [main] INFO  LogUtility:10 - LoginPage is displayed and passed
+15:06:2023  15:55:29 [main] INFO  LogUtility:10 - User name is entered in field
+15:06:2023  15:55:29 [main] INFO  LogUtility:10 - Next button is clicked
+15:06:2023  15:55:29 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023  15:55:29 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  15:55:30 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  16:00:57 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.16.00.57.html Report generating started
+15:06:2023  16:00:59 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  16:00:59 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  16:01:01 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  16:01:02 [main] INFO  LogUtility:10 - AdvancedSearchOptionTest Test case started
+15:06:2023  16:01:02 [main] INFO  LogUtility:10 - Settings is Clicked
+15:06:2023  16:01:03 [main] INFO  LogUtility:10 - AdvancedSearch is Clicked
+15:06:2023  16:01:03 [main] INFO  LogUtility:10 - Advanced search page is displayed and passed
+15:06:2023  16:01:05 [main] INFO  LogUtility:10 - Search creteria is entered
+15:06:2023  16:01:06 [main] INFO  LogUtility:10 - Advanced search button is Clicked
+15:06:2023  16:01:07 [main] INFO  LogUtility:10 - Search result is displayed and passed
+15:06:2023  16:01:08 [main] INFO  LogUtility:13 - AdvancedSearchOptionTest Test case executed successfully
+15:06:2023  16:01:08 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  16:01:09 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  16:01:09 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  16:01:11 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  16:01:11 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023  16:01:14 [main] INFO  LogUtility:10 - Sign in button is Clicked
+15:06:2023  16:01:14 [main] INFO  LogUtility:10 - LoginPage is displayed and passed
+15:06:2023  16:01:14 [main] INFO  LogUtility:10 - User name is entered in field
+15:06:2023  16:01:14 [main] INFO  LogUtility:10 - Next button is clicked
+15:06:2023  16:01:14 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023  16:01:15 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  16:01:16 [main] INFO  LogUtility:10 - Report generated successfully

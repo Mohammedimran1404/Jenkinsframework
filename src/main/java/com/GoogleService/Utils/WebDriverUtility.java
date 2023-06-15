@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.time.Duration;
 import java.util.Iterator;
 import java.util.Set;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.JavascriptExecutor;
@@ -25,24 +26,19 @@ public class WebDriverUtility {
 		driver.manage().window().maximize();
 	}
 	
-	/*This Method is used to minimize the window
-	 * @param driver
-	 */
-	public void minimizeWindow(WebDriver driver) {
-		driver.manage().window().minimize();
-	}
+	
 	/*This Method will wait 20 seconds for the entire DOM structure
 	 * @param driver
 	 */
 	public void impliCitlyWait(WebDriver driver) {
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	}
 	/*This Method will wait for particular element to be visible
 	 * @param driver
 	 * @param element
 	 */
 	public void waitForElementToVisible(WebDriver driver,WebElement element) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+		WebDriverWait wait = new WebDriverWait(driver,20);
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
 	/*This Method will wait for particular element to be clickable
@@ -50,7 +46,7 @@ public class WebDriverUtility {
 	 * @param element
 	 */
 	public void waitForElementToClickable(WebDriver driver,WebElement element) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+		WebDriverWait wait = new WebDriverWait(driver,20);
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 	}
 	/**

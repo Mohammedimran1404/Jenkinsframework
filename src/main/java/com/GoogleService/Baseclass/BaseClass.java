@@ -25,6 +25,7 @@ public class BaseClass {
 	 PropertyFileUtility propertyFileUtility= new PropertyFileUtility();
 	 WebDriverUtility webdriverutility= new WebDriverUtility();
 	 LogUtility logutility =new LogUtility();
+	 ConstantUtility constantutility = new ConstantUtility();
 	 String baseUrl=propertyFileUtility.getApplicationUrl();
 	
 
@@ -85,7 +86,7 @@ public class BaseClass {
 	
 	public  String getBrowserVersion() {
         Capabilities caps = ((RemoteWebDriver) driver).getCapabilities();
-        String browserVersion = caps.getBrowserVersion();
+        String browserVersion = caps.getVersion();
       
         return browserVersion;
     }
@@ -98,7 +99,7 @@ public class BaseClass {
 	}
 	@DataProvider(name="data")
 	public String [][] googleSearchData() throws IOException{
-		String path=ConstantUtility.excellfilepath;
+		String path=constantutility.getExcellFilePath();
 		 ExcellUtility excellutility = new ExcellUtility(path);
 		 int totalrows=excellutility.getRowCount("AdvancedSearch");
 		 int totalcols=excellutility.getColumnCount("AdvancedSearch", 1);

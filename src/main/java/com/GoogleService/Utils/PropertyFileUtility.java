@@ -5,10 +5,11 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 public class PropertyFileUtility {
+	ConstantUtility constantutility = new ConstantUtility();
 	FileInputStream fis;
 	Properties pro;
 	public PropertyFileUtility() {
-		File f=new File(ConstantUtility.propertyfilepath);
+		File f=new File(constantutility.getPropertyFilePath());
 		try {
 			fis= new FileInputStream(f);
 			pro=new Properties();

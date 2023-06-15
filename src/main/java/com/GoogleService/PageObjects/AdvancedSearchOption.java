@@ -7,10 +7,12 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
+import com.GoogleService.Utils.LogUtility;
 import com.GoogleService.Utils.WebDriverUtility;
 
 public class AdvancedSearchOption {
 	 WebDriverUtility webdriverutility= new WebDriverUtility();
+	 LogUtility logutility = new LogUtility();
 
 		public WebDriver driver;
 		public AdvancedSearchOption(WebDriver driver) {
@@ -56,16 +58,20 @@ public class AdvancedSearchOption {
 		
 		public void clickOnSettings() {
 			settings.click();
+			logutility.info("Settings is Clicked");
 		}
 		public void clickOnAdvancedSearch() {
 			advancedsearch.click();
+			logutility.info("AdvancedSearch is Clicked");
 		}
 		public void validatingAdvancedSearchPage() {
 			if("Google Advanced Search".equals(driver.getTitle())) {
 				Assert.assertTrue(true);
+				logutility.info("Advanced search page is displayed and passed");
 			}
 			else {
 				Assert.assertTrue(false);
+				logutility.info("Advanced search page is not displayed and failed");
 			}
 		}
 		public void searchCriteria(String allwords,String exactwords,String thiswords,String nonewords,String numberrange,String numberto,String site) {
@@ -87,16 +93,20 @@ public class AdvancedSearchOption {
 			particulartermsappearing.click();
 			usagerights.click();
 			particularusagerights.click();
+			logutility.info("Search creteria is entered");
 		}
 		public void clickOnadvancedSearchButton() {
 			advancedsearchbtn.click();
+			logutility.info("Advanced search button is Clicked");
 		}
 		public void validatingSearchResult() {
 			if(("Kairos Kai OR OR OR ros \"Kaiross\" -none site:https://www.google.com 1..20 - Google Search").equals(driver.getTitle())) {
 				Assert.assertTrue(true);
+				logutility.info("Search result is displayed and passed");
 			}
 			else {
 				Assert.assertTrue(false);
+				logutility.info("Search result is not displayed and failed");
 
 			}
 			}
