@@ -8,6 +8,7 @@
 	  <parameter name="Browser" value="Chrome"></parameter>
     <classes>
       <class name="com.GoogleService.Testcases.TC_AdvancedSearchOptionTest"/>
+      <class name="com.GoogleService.Testcases.TC_SignInFunctionality"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

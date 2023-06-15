@@ -175,3 +175,403 @@
 13:06:2023  14:55:43 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
 13:06:2023  14:55:43 [main] INFO  LogUtility:10 - Browser quit successfully
 13:06:2023  14:55:44 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  07:33:32 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.07.33.32.html Report generating started
+14:06:2023  07:33:35 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  07:33:35 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  07:33:38 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  07:33:39 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  07:33:43 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  07:33:43 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  07:33:44 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  10:15:21 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.10.15.21.html Report generating started
+14:06:2023  10:15:24 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:15:24 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:15:26 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:15:27 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  10:15:31 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  10:15:31 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:15:32 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:15:32 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:15:33 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:15:33 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  10:15:35 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  10:15:35 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:15:35 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  10:17:53 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.10.17.53.html Report generating started
+14:06:2023  10:17:55 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:17:55 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:17:58 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:17:59 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  10:18:03 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  10:18:03 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:18:04 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:18:04 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:18:05 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:18:05 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  10:18:07 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  10:18:07 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:18:08 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  10:26:54 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.10.26.54.html Report generating started
+14:06:2023  10:26:56 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:26:56 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:26:57 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:26:58 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  10:27:01 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  10:27:02 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:27:02 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:27:03 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:27:04 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:27:04 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  10:27:06 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  10:27:06 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:27:06 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  10:27:50 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.10.27.50.html Report generating started
+14:06:2023  10:27:51 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:27:51 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:27:53 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:27:54 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  10:27:58 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  10:27:58 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:27:58 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  10:27:59 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  10:28:00 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  10:28:00 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  10:28:02 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  10:28:02 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  10:28:03 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:00:17 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.00.17.html Report generating started
+14:06:2023  11:00:19 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:00:19 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:00:22 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:00:23 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:00:27 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:00:28 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:00:29 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:00:29 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:00:32 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:00:32 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:00:34 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:00:35 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:00:35 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:00:49 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.00.49.html Report generating started
+14:06:2023  11:00:52 [TestNG-test=Test-1] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:00:52 [TestNG-test=Test-2] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:00:52 [TestNG-test=Test-1] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:00:52 [TestNG-test=Test-2] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:00:54 [TestNG-test=Test-1] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:00:54 [TestNG-test=Test-1] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:00:54 [TestNG-test=Test-2] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:00:56 [TestNG-test=Test-2] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:00:56 [TestNG-test=Test-2] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:00:57 [TestNG-test=Test-1] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:00:57 [TestNG-test=Test-1] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:00:57 [TestNG-test=Test-2] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:00:57 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:01:33 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.01.33.html Report generating started
+14:06:2023  11:01:35 [TestNG-test=Test-1] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:01:35 [TestNG-test=Test-2] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:01:35 [TestNG-test=Test-1] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:01:35 [TestNG-test=Test-2] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:01:40 [TestNG-test=Test-1] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:01:40 [TestNG-test=Test-1] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:01:41 [TestNG-test=Test-2] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:01:43 [TestNG-test=Test-2] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:01:43 [TestNG-test=Test-2] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:01:44 [TestNG-test=Test-1] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:01:44 [TestNG-test=Test-1] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:01:44 [TestNG-test=Test-2] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:01:45 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:04:30 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.04.30.html Report generating started
+14:06:2023  11:04:33 [TestNG-test=Test-1] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:04:33 [TestNG-test=Test-2] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:04:33 [TestNG-test=Test-2] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:04:33 [TestNG-test=Test-1] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:04:35 [TestNG-test=Test-2] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:04:35 [TestNG-test=Test-2] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:04:36 [TestNG-test=Test-1] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:04:37 [TestNG-test=Test-1] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:04:37 [TestNG-test=Test-1] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:04:38 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:04:38 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:04:38 [TestNG-test=Test-1] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:04:38 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:10:35 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.10.34.html Report generating started
+14:06:2023  11:10:37 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:10:37 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:10:39 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:10:39 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:10:41 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:10:42 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:10:43 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:10:43 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:10:45 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:10:47 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:10:51 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:10:51 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:10:52 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:11:38 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.11.38.html Report generating started
+14:06:2023  11:11:40 [TestNG-test=Test-2] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:11:40 [TestNG-test=Test-1] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:11:40 [TestNG-test=Test-2] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:11:40 [TestNG-test=Test-1] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:11:42 [TestNG-test=Test-2] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:11:42 [TestNG-test=Test-2] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:11:43 [TestNG-test=Test-1] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:11:44 [TestNG-test=Test-1] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:11:45 [TestNG-test=Test-1] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:11:45 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:11:45 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:11:45 [TestNG-test=Test-1] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:11:46 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:23:54 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.23.54.html Report generating started
+14:06:2023  11:23:57 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:23:57 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:23:59 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:23:59 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:24:01 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:24:01 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:24:02 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:24:03 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:24:05 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:24:06 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:24:10 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:24:11 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:24:11 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:24:11 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.24.11.html Report generating started
+14:06:2023  11:24:12 [main] INFO  LogUtility:10 - Edge Browser is started successfully
+14:06:2023  11:24:12 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:24:14 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:24:14 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:24:16 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:24:17 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:24:18 [main] INFO  LogUtility:10 - Edge Browser is started successfully
+14:06:2023  11:24:18 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:24:20 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:24:20 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:24:25 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:24:25 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:24:25 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:25:08 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.25.08.html Report generating started
+14:06:2023  11:25:10 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:25:10 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:25:13 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:25:13 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:25:15 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:25:16 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:25:17 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:25:17 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:25:19 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:25:20 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:25:25 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:25:25 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:25:25 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:25:25 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.25.25.html Report generating started
+14:06:2023  11:25:26 [main] INFO  LogUtility:10 - Edge Browser is started successfully
+14:06:2023  11:25:27 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:25:29 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:25:29 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:25:31 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:25:32 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:25:32 [main] INFO  LogUtility:10 - Edge Browser is started successfully
+14:06:2023  11:25:33 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:25:35 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:25:35 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:25:41 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:25:41 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:25:41 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:25:41 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.25.41.html Report generating started
+14:06:2023  11:25:45 [main] INFO  LogUtility:10 - Firefox Browser is started successfully
+14:06:2023  11:25:45 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:25:48 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:25:48 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:25:50 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:25:51 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:25:54 [main] INFO  LogUtility:10 - Firefox Browser is started successfully
+14:06:2023  11:25:54 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:25:57 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:25:57 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:26:03 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+14:06:2023  11:26:04 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:26:04 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:32:45 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.32.45.html Report generating started
+14:06:2023  11:32:47 [TestNG-test=Test-1] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:32:47 [TestNG-test=Test-2] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:32:47 [TestNG-test=Test-2] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:32:47 [TestNG-test=Test-1] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:32:49 [TestNG-test=Test-2] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:32:49 [TestNG-test=Test-2] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:32:50 [TestNG-test=Test-1] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:32:51 [TestNG-test=Test-1] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:32:52 [TestNG-test=Test-1] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:32:52 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:32:52 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:32:52 [TestNG-test=Test-1] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:32:53 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:33:34 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.33.34.html Report generating started
+14:06:2023  11:33:36 [TestNG-test=Test-1] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:33:36 [TestNG-test=Test-2] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:33:36 [TestNG-test=Test-2] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:33:36 [TestNG-test=Test-1] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:33:39 [TestNG-test=Test-2] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:33:39 [TestNG-test=Test-2] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:33:40 [TestNG-test=Test-1] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:33:40 [TestNG-test=Test-1] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:33:41 [TestNG-test=Test-1] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:33:41 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:33:41 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:33:41 [TestNG-test=Test-1] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:33:42 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:34:42 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.34.42.html Report generating started
+14:06:2023  11:34:44 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:34:45 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:34:47 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:34:47 [TestNG-test=Test-2] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:34:48 [TestNG-test=Test-1] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:34:48 [TestNG-test=Test-1] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:34:49 [TestNG-test=Test-2] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:34:49 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:34:50 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:35:10 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.35.10.html Report generating started
+14:06:2023  11:35:12 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:35:12 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:35:14 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:35:15 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:35:19 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:35:19 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:35:19 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:35:20 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:35:20 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  11:36:31 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.11.36.31.html Report generating started
+14:06:2023  11:36:33 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:36:33 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:36:35 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:36:36 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  11:36:39 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  11:36:39 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:36:41 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  11:36:41 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  11:36:43 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  11:36:43 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  11:36:45 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  11:36:45 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  11:36:45 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  12:16:02 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.12.16.02.html Report generating started
+14:06:2023  12:16:04 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  12:16:04 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:16:06 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:16:06 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  12:16:07 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  12:16:08 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:16:08 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  12:16:09 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:16:10 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:16:11 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  12:16:13 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  12:16:14 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:16:14 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  12:16:14 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.12.16.14.html Report generating started
+14:06:2023  12:16:15 [main] INFO  LogUtility:10 - Edge Browser is started successfully
+14:06:2023  12:16:15 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:16:16 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:16:16 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  12:16:18 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  12:16:18 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:16:19 [main] INFO  LogUtility:10 - Edge Browser is started successfully
+14:06:2023  12:16:19 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:16:21 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:16:21 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  12:16:24 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  12:16:24 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:16:24 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  12:16:24 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.12.16.24.html Report generating started
+14:06:2023  12:16:26 [main] INFO  LogUtility:10 - Firefox Browser is started successfully
+14:06:2023  12:16:26 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:16:28 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:16:28 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  12:16:29 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  12:16:30 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:16:32 [main] INFO  LogUtility:10 - Firefox Browser is started successfully
+14:06:2023  12:16:32 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:16:33 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:16:34 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  12:16:39 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  12:16:39 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:16:39 [main] INFO  LogUtility:10 - Report generated successfully
+14:06:2023  12:58:20 [main] INFO  LogUtility:10 - Test-Report-14.06.2023.12.58.20.html Report generating started
+14:06:2023  12:58:23 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  12:58:23 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:58:25 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:58:26 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+14:06:2023  12:58:30 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+14:06:2023  12:58:30 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:58:31 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+14:06:2023  12:58:31 [main] INFO  LogUtility:10 - Window is maximize
+14:06:2023  12:58:34 [main] INFO  LogUtility:10 - Url is Launch
+14:06:2023  12:58:34 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+14:06:2023  12:58:36 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+14:06:2023  12:58:36 [main] INFO  LogUtility:10 - Browser quit successfully
+14:06:2023  12:58:37 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  10:17:27 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.10.17.27.html Report generating started
+15:06:2023  10:17:30 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:17:31 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:17:32 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:17:33 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023  10:17:37 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+15:06:2023  10:17:37 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:17:38 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:17:38 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:17:40 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:17:40 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023  10:17:41 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023  10:17:42 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:17:42 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  10:24:15 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.10.24.15.html Report generating started
+15:06:2023  10:24:17 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:24:18 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:24:20 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:24:20 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023  10:24:23 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+15:06:2023  10:24:24 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:24:24 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  10:28:01 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.10.28.01.html Report generating started
+15:06:2023  10:28:03 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:28:03 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:28:05 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:28:06 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023  10:28:06 [main] ERROR LogUtility:16 - googleHomePageTest Test case failed
+15:06:2023  10:28:06 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:28:07 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:28:07 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:28:09 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:28:09 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023  10:28:10 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023  10:28:11 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:28:11 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  10:30:44 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.10.30.44.html Report generating started
+15:06:2023  10:30:46 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:30:46 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:30:48 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:30:49 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023  10:30:52 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+15:06:2023  10:30:53 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:30:54 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  10:30:54 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  10:30:55 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  10:30:55 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023  10:30:56 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023  10:30:57 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  10:30:57 [main] INFO  LogUtility:10 - Report generated successfully
+15:06:2023  11:21:26 [main] INFO  LogUtility:10 - Test-Report-15.06.2023.11.21.26.html Report generating started
+15:06:2023  11:21:29 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  11:21:29 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  11:21:32 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  11:21:32 [main] INFO  LogUtility:10 - googleHomePageTest Test case started
+15:06:2023  11:21:37 [main] INFO  LogUtility:13 - googleHomePageTest Test case executed successfully
+15:06:2023  11:21:37 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  11:21:38 [main] INFO  LogUtility:10 - Chrome Browser is started successfully
+15:06:2023  11:21:38 [main] INFO  LogUtility:10 - Window is maximize
+15:06:2023  11:21:40 [main] INFO  LogUtility:10 - Url is Launch
+15:06:2023  11:21:40 [main] INFO  LogUtility:10 - signInFunctionalityTest Test case started
+15:06:2023  11:21:42 [main] ERROR LogUtility:16 - signInFunctionalityTest Test case failed
+15:06:2023  11:21:43 [main] INFO  LogUtility:10 - Browser quit successfully
+15:06:2023  11:21:43 [main] INFO  LogUtility:10 - Report generated successfully

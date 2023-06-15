@@ -30,19 +30,13 @@ public class ListenersUtility  implements ITestListener {
 	ExtentReports reports;
 	ExtentTest test;
 	
+	
 
 	public void onTestStart(ITestResult result) {
-		String browserName =baseclass .getBrowserName();
-		String browserVersion=baseclass.getBrowserVersion();
 		String methodname=result.getMethod().getMethodName();
 		test=reports.createTest(methodname);
-		logutility.info(methodname+" Test case started");
-		
-		reports.setSystemInfo("Browser", browserName);
-		reports.setSystemInfo("BrowserVersion",browserVersion );
+		logutility.info(methodname+" Test case started");	
 	}
-
-
 	public void onTestSuccess(ITestResult result) {
 		String methodname=result.getMethod().getMethodName();
 		test.log(Status.PASS, MarkupHelper.createLabel(methodname, ExtentColor.GREEN));
@@ -98,8 +92,14 @@ public class ListenersUtility  implements ITestListener {
 
 
 	public void onFinish(ITestContext context) {
+		String browserName =baseclass .getBrowserName();
+		String browserVersion=baseclass.getBrowserVersion();
+		reports.setSystemInfo("Browser", browserName);
+		reports.setSystemInfo("BrowserVersion",browserVersion );
 		reports.flush();
 		logutility.info("Report generated successfully");
+		
+		
 	}
 	
 

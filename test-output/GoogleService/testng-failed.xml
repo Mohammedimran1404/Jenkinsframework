@@ -7,13 +7,13 @@
   <test thread-count="5" name="GoogleService Test(failed)">
     <parameter name="Browser" value="Chrome"/>
     <classes>
-      <class name="com.GoogleService.Testcases.TC_AdvancedSearchOption">
+      <class name="com.GoogleService.Testcases.TC_SignInFunctionality">
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="googleHomePageTest" invocation-numbers="0"/>
+          <include name="signInFunctionalityTest"/>
         </methods>
-      </class> <!-- com.GoogleService.Testcases.TC_AdvancedSearchOption -->
+      </class> <!-- com.GoogleService.Testcases.TC_SignInFunctionality -->
     </classes>
   </test> <!-- GoogleService Test(failed) -->
 </suite> <!-- Failed suite [GoogleService] -->

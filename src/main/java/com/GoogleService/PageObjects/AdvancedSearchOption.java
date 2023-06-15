@@ -18,40 +18,40 @@ public class AdvancedSearchOption {
 			PageFactory.initElements(driver, this);
 		}
 		
-		@FindBy(xpath="//div[text()='Settings']") WebElement settings;
+		@FindBy(xpath="//div[text()='Settings']")private WebElement settings;
 		
-		@FindBy(linkText = "Advanced search")WebElement advancedsearch;
+		@FindBy(linkText = "Advanced search") private WebElement advancedsearch;
 		
-		@FindBy(xpath = "//input[@id='xX4UFf']")WebElement allthesewords;
+		@FindBy(xpath = "//input[@id='xX4UFf']")private WebElement allthesewords;
 		
-		@FindBy(xpath = "//input[@id='CwYCWc']")WebElement thisexactwords;
+		@FindBy(xpath = "//input[@id='CwYCWc']")private WebElement thisexactwords;
 	
-		@FindBy(xpath = "//input[@id='mSoczb']")WebElement anyofthiswords;
+		@FindBy(xpath = "//input[@id='mSoczb']")private WebElement anyofthiswords;
 		
-		@FindBy(xpath = "//input[@id='mSoczb']/following::input[1]")WebElement noneofthesewords;
+		@FindBy(xpath = "//input[@id='mSoczb']/following::input[1]")private WebElement noneofthesewords;
 		
-		@FindBy(xpath = "//input[@id='LK5akc']")WebElement numberrangingfrom;
+		@FindBy(xpath = "//input[@id='LK5akc']")private WebElement numberrangingfrom;
 		
-		@FindBy(xpath ="//input[@name='as_nhi']")WebElement numberrangingto;
+		@FindBy(xpath ="//input[@name='as_nhi']")private WebElement numberrangingto;
 		
 		@FindBy(xpath="//div[@id='lr_button']")WebElement language;
 		@FindBy(xpath = "//li[@id=':d']/child::div")WebElement clickonparticularlanguage;
 		
-		@FindBy(xpath="//div[@id='cr_button']")WebElement region;
-		@FindBy(xpath="//li[@id=':44']/child::div")WebElement particularregion;
+		@FindBy(xpath="//div[@id='cr_button']")private WebElement region;
+		@FindBy(xpath="//li[@id=':44']/child::div")private WebElement particularregion;
 		
-		@FindBy(xpath = "//div[@id='as_qdr_button']")WebElement lastupdate;
-		@FindBy(xpath = "//li[@id=':80']/child::div")WebElement particularlastupdate;
+		@FindBy(xpath = "//div[@id='as_qdr_button']")private WebElement lastupdate;
+		@FindBy(xpath = "//li[@id=':80']/child::div")private WebElement particularlastupdate;
 		
-		@FindBy(xpath = "//input[@id='NqEkZd']")WebElement siteordomain;
+		@FindBy(xpath = "//input[@id='NqEkZd']")private WebElement siteordomain;
 		
-		@FindBy(xpath="//div[@id='as_occt_button']")WebElement termsappearing;
-		@FindBy(xpath="//li[@id=':85']/child::div")WebElement particulartermsappearing;
+		@FindBy(xpath="//div[@id='as_occt_button']")private WebElement termsappearing;
+		@FindBy(xpath="//li[@id=':85']/child::div")private WebElement particulartermsappearing;
 		
-		@FindBy(xpath = "//div[@id='as_rights_button']")WebElement usagerights;
-		@FindBy(xpath = "//li[@id=':8d']/child::div")WebElement particularusagerights;
+		@FindBy(xpath = "//div[@id='as_rights_button']")private WebElement usagerights;
+		@FindBy(xpath = "//li[@id=':8d']/child::div")private WebElement particularusagerights;
 		
-		@FindBy(xpath="//div[@id='as_rights_button']/following::div[5]/child::input[2]")WebElement advancedsearchbtn;
+		@FindBy(xpath="//div[@id='as_rights_button']/following::div[5]/child::input[2]")private WebElement advancedsearchbtn;
 		
 		
 		public void clickOnSettings() {
@@ -92,7 +92,7 @@ public class AdvancedSearchOption {
 			advancedsearchbtn.click();
 		}
 		public void validatingSearchResult() {
-			if(("Kai-ros Kai OR OR OR ros \"Kai\" -none site:https://www.google.com 1..20 - Google Search").equals(driver.getTitle())) {
+			if(("Kairos Kai OR OR OR ros \"Kaiross\" -none site:https://www.google.com 1..20 - Google Search").equals(driver.getTitle())) {
 				Assert.assertTrue(true);
 			}
 			else {
